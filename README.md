@@ -8,11 +8,11 @@ The purpose of the “OPEN-TeaLeaF” project is to design portable and open tea
 The main focus of the actvity is to demonstrate that STEAM skills relevant for professional development can be acquired through socially-driven education without requiring costly investments. For that reason, the outcomes of the actvity continue to reach teachers and pupils beyond the end date much the same way as during the actvity. Also, by sharing the experience, bill of materials for TeaLeaF units, and the learning content, we expect a multiplier effect. As the essence of TeaLeaF units is a combintion of open-source hardware and low-cost off-the-shelf devices, the legacy of the project is a community-based opensource movement. Other countries and institutions can follow the lead by reproducing the TeaLeaF units, localizing the learning paths, developing new learning journeys and setting up mechanisms for reaching target audiences. In order to achieve this momentum with the proposed activity, the Disseminatin Plan will include a strategy for continued community building.
 
 The overall work plan consists of the following work packages:
+* WP1 Management & Dissemination (Leader: University of Tartu)
+* WP2 TeaLeaf units development (Leader: University of Tartu)
+* WP3 Development and Delivery of Teacher trainings (Leader: OCG)
+* WP4 Piloting, Quality Assurance and Mass Deployment (Leader: Joanneum)
 
-WP1 Management & Dissemination (Leader: University of Tartu)
-WP2 TeaLeaf units development (Leader: University of Tartu)
-WP3 Development and Delivery of Teacher trainings (Leader: OCG)
-WP4 Piloting, Quality Assurance and Mass Deployment (Leader: Joanneum)
 The project is lead by University of Tartu (Estonia) and the partners are OCG Austria Computer Society (Austria) and Joanneum Research.
 
 
