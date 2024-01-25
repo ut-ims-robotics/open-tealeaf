@@ -73,17 +73,55 @@ The learning kit consists of the following components:
 To ensure the scalability of OPEN-TeaLeaF kits, the components are either completely open-sourced (preferred) or low-cost off-the-shelf products with many functional alternatives.
 The specific brand or a model for component that is included in an OPEN-TeaLeaF kits is not necessarily strictly defined as long as the intended functionality is still maintained. For that reason, there are minor differences in the Bill of Materials for kits created in Austria (version AT) and Estonia (version ET). The table below provides an overview of the TeaLeaF kit final BoM and possible variations.
 
-| OPEN-TeaLeaF kit functional component                     | Specific design or product used in Austria            | Specific design or product used in Estonia                 |
-|-----------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------|
-| Mobile robot                                              | Robotont gen2                                         | Robotont gen3                                              |
-| Game controller for teleoperating the robot               | Logitech F710 wireless gamepad                        | IPEGA 9129 Black Bluetooth Gamepad Digital                 |
-| Batteries for the robot                                   | Turnigy High Capacity 5200mAh 4S 12C Lipo Pack w/XT60 | 18V LXT® Lithium-Ion 5.0Ah Battery (BL1850B)               |
-| Charger for the robot’s battery                           | K2 Air Dual Charger 200 (500)W x2 AC/DC 1-6S          | Makita 18V LXT® Lithium-Ion Rapid Optimum Charger (DC18RC) |
-| Power supply cable                                        | As supplied with the robot’s on-board computer        | As supplied with the robot’s on-board computer             |
-| USB memory stick that contains the pre-installed software | SANDISK Ultra Fit 32GB USB 3.1                        | SAMSUNG FIT PLUS 64GB USB 3.1                              |
-| Markers for enabling vision-based perception              | Design files: [ar_steering_wheel.pdf](assets/ar_steering_wheel.pdf)                                               ||
-| Small traffic cones for marking the area of application   | Design files: [SolidWorks](assets/open-tealeaf_kit_cone.SLDPRT) \| [STEP](assets/open-tealeaf_kit_cone.STEP) \| [STL](assets/open-tealeaf_kit_cone.STL)|
-
+<table>
+  <thead>
+    <tr>
+      <th><strong>OPEN-TeaLeaF kit<br>functional component</strong></th>
+      <th><strong>Specific design or<br>product used in<br>Austria</strong></th>
+      <th><strong>Specific design or<br>product used in<br>Estonia</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Robotont mobile robot</td>
+      <td>Robotont gen2</td>
+      <td>Robotont gen3</td>
+    </tr>
+    <tr>
+      <td>Game controller for teleoperating the robot</td>
+      <td>Logitech F710 wireless gamepad</td>
+      <td>IPEGA 9129 Black Bluetooth Gamepad Digital</td>
+    </tr>
+    <tr>
+      <td>Batteries for the robot</td>
+      <td>Turnigy High Capacity 5200mAh 4S 12C Lipo Pack w/XT60</td>
+      <td>18V LXT® Lithium-Ion 5.0Ah Battery (BL1850B)</td>
+    </tr>
+    <tr>
+      <td>Charger for the robot’s battery</td>
+      <td>K2 Air Dual Charger 200 (500)W x2 AC/DC 1-6S</td>
+      <td>Makita 18V LXT® Lithium-Ion Rapid Optimum Charger (DC18RC)</td>
+    </tr>
+    <tr>
+      <td>Power supply cable</td>
+      <td>As supplied with the robot’s on-board computer</td>
+      <td>As supplied with the robot’s on-board computer</td>
+    </tr>
+    <tr>
+      <td>USB memory stick that contains the pre-installed software</td>
+      <td>SANDISK Ultra Fit 32GB USB 3.1</td>
+      <td>SAMSUNG FIT PLUS 64GB<br>USB 3.1</td>
+    </tr>
+    <tr>
+      <td>Markers for enabling vision-based perception</td>
+      <td colspan="2">Design files:<br><a href="https://www.open-tealeaf.eu/wp-content/uploads/2023/12/ar_steering_wheel.pdf" data-type="attachment" data-id="255" target="_blank" rel="noreferrer noopener">ar_steering_wheel.pdf</a></td>
+    </tr>
+    <tr>
+      <td>Small traffic cones for marking the area of application</td>
+      <td colspan="2">Design files: <br><a href="/wp-content/uploads/2023/12/open-tealeaf_kit_cone.SLDPRT" target="_blank" rel="noreferrer noopener nofollow">SolidWorks</a> | <a href="/wp-content/uploads/2023/12/open-tealeaf_kit_cone.STEP" target="_blank" rel="noreferrer noopener">STEP</a> | <a href="/wp-content/uploads/2023/12/open-tealeaf_kit_cone.STL" target="_blank" rel="noreferrer noopener">STL</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Additional resources
 
