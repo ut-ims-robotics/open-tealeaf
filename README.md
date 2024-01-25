@@ -81,8 +81,8 @@ The specific brand or a model for component that is included in an OPEN-TeaLeaF 
 | Charger for the robot’s battery                           | K2 Air Dual Charger 200 (500)W x2 AC/DC 1-6S          | Makita 18V LXT® Lithium-Ion Rapid Optimum Charger (DC18RC) |
 | Power supply cable                                        | As supplied with the robot’s on-board computer        | As supplied with the robot’s on-board computer             |
 | USB memory stick that contains the pre-installed software | SANDISK Ultra Fit 32GB USB 3.1                        | SAMSUNG FIT PLUS 64GB USB 3.1                              |
-| Markers for enabling vision-based perception              | Design files: ar_steering_wheel.pdf                   |                                                            |
-| Small traffic cones for marking the area of application   | Design files: SolidWorks \| STEP \| STL               |                                                            |
+| Markers for enabling vision-based perception              | Design files: [ar_steering_wheel.pdf](assets/ar_steering_wheel.pdf)                                               ||
+| Small traffic cones for marking the area of application   | Design files: [SolidWorks](assets/open-tealeaf_kit_cone.SLDPRT) \| [STEP](assets/open-tealeaf_kit_cone.STEP) \| [STL](assets/open-tealeaf_kit_cone.STL)|
 
 
 ## Additional resources
