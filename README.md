@@ -55,6 +55,10 @@ JOANNEUM RESEARCH, headquartered in Graz, is a successful national and internati
 
 ## Learning kit contents
 
+| <img src="docs/kit_et.jpg" alt="Estonian learning kit" height="300" /> | <img src="docs/kit_at.jpg" alt="Austrian learning kit" height="300" /> |
+|:---:|:---:|
+| OPEN-TeaLeaF kits (version ET) | OPEN-TeaLeaF kits (version AT) |
+
 The learning kit consists of the following components:
 
 - ROBOTONT, an open-source mobile robot for education and research
