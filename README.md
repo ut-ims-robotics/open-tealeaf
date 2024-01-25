@@ -35,8 +35,8 @@ The specific brand or a model for component that is included in an OPEN-TeaLeaF 
   <thead>
     <tr>
       <th><strong>OPEN-TeaLeaF kit<br>functional component</strong></th>
-      <th><strong>Specific design or<br>product used in<br>Austria (Type-EE)</strong></th>
-      <th><strong>Specific design or<br>product used in<br>Estonia (Type-AT)</strong></th>
+      <th><strong>Specific design or<br>product used in<br>Austria (Type-AT)</strong></th>
+      <th><strong>Specific design or<br>product used in<br>Estonia (Type-EE)</strong></th>
     </tr>
   </thead>
   <tbody>
