@@ -15,7 +15,7 @@ The OPEN-TeaLeaF activity is supported by EIT Manufacturing co-funded by the Eur
 
 | <img src="docs/kit_et.jpg" alt="Estonian learning kit" height="300" /> | <img src="docs/kit_at.jpg" alt="Austrian learning kit" height="300" /> |
 |:---:|:---:|
-| OPEN-TeaLeaF kits (version ET) | OPEN-TeaLeaF kits (version AT) |
+| OPEN-TeaLeaF kits (Type-EE) | OPEN-TeaLeaF kits (Type-AT) |
 
 The learning kit consists of the following components:
 
@@ -29,14 +29,14 @@ The learning kit consists of the following components:
 - Small traffic cones for marking the area of application
 
 To ensure the scalability of OPEN-TeaLeaF kits, the components are either completely open-sourced (preferred) or low-cost off-the-shelf products with many functional alternatives.
-The specific brand or a model for component that is included in an OPEN-TeaLeaF kits is not necessarily strictly defined as long as the intended functionality is still maintained. For that reason, there are minor differences in the Bill of Materials for kits created in Austria (version AT) and Estonia (version ET). The table below provides an overview of the TeaLeaF kit final BoM and possible variations.
+The specific brand or a model for component that is included in an OPEN-TeaLeaF kits is not necessarily strictly defined as long as the intended functionality is still maintained. For that reason, there are minor differences in the Bill of Materials for kits created in Austria (Type-AT) and Estonia (Type-EE). The table below provides an overview of the TeaLeaF kit final BoM and possible variations.
 
 <table>
   <thead>
     <tr>
       <th><strong>OPEN-TeaLeaF kit<br>functional component</strong></th>
-      <th><strong>Specific design or<br>product used in<br>Austria</strong></th>
-      <th><strong>Specific design or<br>product used in<br>Estonia</strong></th>
+      <th><strong>Specific design or<br>product used in<br>Austria (Type-EE)</strong></th>
+      <th><strong>Specific design or<br>product used in<br>Estonia (Type-AT)</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -53,30 +53,30 @@ The specific brand or a model for component that is included in an OPEN-TeaLeaF 
     <tr>
       <td>Batteries for the robot</td>
       <td>Turnigy High Capacity 5200mAh 4S 12C Lipo Pack w/XT60</td>
-      <td>18V LXT® Lithium-Ion 5.0Ah Battery (BL1850B)</td>
+      <td>18V LXT® Lithium-Ion 5.0Ah Battery</td>
     </tr>
     <tr>
-      <td>Charger for the robot’s battery</td>
+      <td>Battery charger</td>
       <td>K2 Air Dual Charger 200 (500)W x2 AC/DC 1-6S</td>
-      <td>Makita 18V LXT® Lithium-Ion Rapid Optimum Charger (DC18RC)</td>
+      <td>Makita 18V LXT® Lithium-Ion Rapid Optimum Charger</td>
     </tr>
     <tr>
-      <td>Power supply cable</td>
-      <td>As supplied with the robot’s on-board computer</td>
-      <td>As supplied with the robot’s on-board computer</td>
-    </tr>
-    <tr>
-      <td>USB memory stick that contains the pre-installed software</td>
-      <td>SANDISK Ultra Fit 32GB USB 3.1</td>
+      <td>USB flash drive with pre-installed software</td>
+      <td>Kingston 3D TLC, 64 GB</td>
       <td>SAMSUNG FIT PLUS 64GB<br>USB 3.1</td>
     </tr>
     <tr>
-      <td>Markers for enabling vision-based perception</td>
+      <td>Fiducial marker for vision-based perception</td>
       <td colspan="2">Design files:<br><a href="assets/ar_steering_wheel.pdf" data-type="attachment" data-id="255" target="_blank" rel="noreferrer noopener">ar_steering_wheel.pdf</a></td>
     </tr>
     <tr>
-      <td>Small traffic cones for marking the area of application</td>
-      <td colspan="2">Design files: <br><a href="/wp-content/uploads/2023/12/open-tealeaf_kit_cone.SLDPRT" target="_blank" rel="noreferrer noopener nofollow">SolidWorks</a> | <a href="/wp-content/uploads/2023/12/open-tealeaf_kit_cone.STEP" target="_blank" rel="noreferrer noopener">STEP</a> | <a href="/wp-content/uploads/2023/12/open-tealeaf_kit_cone.STL" target="_blank" rel="noreferrer noopener">STL</a></td>
+      <td>Cones for marking the area of application</td>
+      <td colspan="2">Design files: <br><a href="assets/open-tealeaf_kit_cone.SLDPRT" target="_blank" rel="noreferrer noopener nofollow">SolidWorks</a> | <a href="assets/open-tealeaf_kit_cone.STEP" target="_blank" rel="noreferrer noopener">STEP</a> | <a href="assets/open-tealeaf_kit_cone.STL" target="_blank" rel="noreferrer noopener">STL</a></td>
+    </tr>
+    <tr>
+      <td>Box</td>
+      <td>EuroBox 25.6L, 400 x 300 x 270 mm</td>
+      <td>PRO BOX storage box (32L), 510 x 390 x 250 mm</td>
     </tr>
   </tbody>
 </table>
@@ -96,7 +96,7 @@ Full documentation (including the bill of materials and the steps for assembly) 
 *Free registration on [skillsmove.eu](https://www.skillsmove.eu/) is required to access the following learning content.
 
 <details>
-  <summary>[ENG] Robotont – An Open Source Mobile Robot For Education And Research</summary>
+  <summary>[EN] Robotont – An Open Source Mobile Robot For Education And Research</summary>
 
   * [Robotont – open-source mobile robot for education and research](https://www.skillsmove.eu/course/view.php?id=4141)
   * [Robotont – components](https://www.skillsmove.eu/course/view.php?id=4771)
@@ -106,7 +106,7 @@ Full documentation (including the bill of materials and the steps for assembly) 
 
 
 <details>
-  <summary>[EST] Robotont – Avatud Mobiilne Robot Õppe- Ja Teadustööks</summary>
+  <summary>[ET] Robotont – Avatud Mobiilne Robot Õppe- Ja Teadustööks</summary>
 
   * [Robotont – avatud robotplatvorm hariduses ja teaduses](https://www.skillsmove.eu/course/view.php?id=1607)
   * [Robotont – komponendid](https://www.skillsmove.eu/course/view.php?id=4297)
@@ -138,7 +138,7 @@ As Estonia’s national university, UT stresses the importance of international 
 
 UT includes four faculties. To support and develop the professional competence of its students and academic staff, the university has entered into bilateral co-operation agreements with 79 partner institutions in 31 countries.
 
-## OCG Austria Computer Society
+## OCG Austrian Computer Society
 <a href="https://www.ocg.at/en" target="_blank">
   <img src="docs/ocg_logo.jpg" alt="OCG logo" height="100" />
 </a>
