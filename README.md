@@ -5,38 +5,9 @@
 
 The purpose of the “OPEN-TeaLeaF” project is to design portable and open teaching and learning kits (TeaLeaF kits). The kits make expensive equipment accessible to learners and promote hands-on learning experiences. By promoting time-sharing of robotic equipment, hundreds of pupils in Estonia and Austria can be engaged with a relatively conservative number of physical devices. “OPEN-TeaLeaF” conducts teacher workshops to ensure the didactic foundation empowers teachers to use the kits in their classes.
 
-# PARTNERS
+[OPEN-TeaLeaF WEBSITE](https://open-tealeaf.eu/)
 
-## University of Tartu – leading partner
-
-<a href="https://www.ut.ee/en" target="_blank">
-  <img src="docs/ut_logo.png" alt="University of Tartu logo" height="100" />
-</a>
-
-UT includes four faculties. To support and develop the professional competence of its students and academic staff, the university has entered into bilateral co-operation agreements with 79 partner institutions in 31 countries.
-
-University of Tartu (UT) is Estonia’s leading centre of research and training. It preserves the culture of the Estonian people and spearheads the country’s reputation in research and provision of higher education. UT belongs to the top 1.2% of world’s best universities.
-
-As Estonia’s national university, UT stresses the importance of international co-operation and partnerships with reputable research universities all over the world. The robust research potential of the university is evidenced by the fact that the University of Tartu has been invited to join the Coimbra Group, a prestigious club of renowned research universities.
-
-UT includes four faculties. To support and develop the professional competence of its students and academic staff, the university has entered into bilateral co-operation agreements with 79 partner institutions in 31 countries.
-
-## OCG Austria Computer Society
-<a href="https://www.ocg.at/en" target="_blank">
-  <img src="docs/ocg_logo.jpg" alt="OCG logo" height="100" />
-</a>
-
-The Austrian Computer Society (OCG) is a non-profit association for the promotion of information technology with due regard to the interaction with people and society. The association acts as an interdisciplinary forum for the latest IT topics, it is an important and respected dialogue partner and has thematic leadership for socio-political IT topics.
-
-The OCG acts as a networking forum, it is a competent and reliable partner for event organisation and that way promotes the relationship between science and business. Moreover, it offers standardised, independent and high-quality IT education and training thus building an important bridge to the working world.
-
-## JOANNEUM RESEARCH
-
-<a href="https://www.joanneum.at/en" target="_blank">
-  <img src="docs/jr_logo.png" alt="JOANNEUM RESEARCH logo" height="100" />
-</a>
-
-JOANNEUM RESEARCH, headquartered in Graz, is a successful national and internationally active research institution owned by the Austrian federal states of Styria, Carinthia and Burgenland. Ideally embedded in the national and international innovation network, our researchers innovate in three high-level fields of expertise: “[Information and Production Technologies](https://www.joanneum.at/en/informations-und-produktionstechnologien)”, “[Human Technologies and Medicine](https://www.joanneum.at/en/humantechnologie-und-medizin)”, and “[Society and Sustainability](https://www.joanneum.at/en/gesellschaft-und-nachhaltigkeit)”. They use ideas, innovative power and considerable research experience to support companies both private and public not only with the development of technology, methods and products, but also with societal topics.
+The OPEN-TeaLeaF activity is supported by EIT Manufacturing co-funded by the European Union.
 
 # PROJECT DOCUMENTATION
 
@@ -70,12 +41,12 @@ The specific brand or a model for component that is included in an OPEN-TeaLeaF 
   </thead>
   <tbody>
     <tr>
-      <td>Robotont mobile robot</td>
+      <td>Mobile robot</td>
       <td>Robotont gen2</td>
       <td>Robotont gen3</td>
     </tr>
     <tr>
-      <td>Game controller for teleoperating the robot</td>
+      <td>Gamepad for teleoperating the robot</td>
       <td>Logitech F710 wireless gamepad</td>
       <td>IPEGA 9129 Black Bluetooth Gamepad Digital</td>
     </tr>
@@ -101,7 +72,7 @@ The specific brand or a model for component that is included in an OPEN-TeaLeaF 
     </tr>
     <tr>
       <td>Markers for enabling vision-based perception</td>
-      <td colspan="2">Design files:<br><a href="https://www.open-tealeaf.eu/wp-content/uploads/2023/12/ar_steering_wheel.pdf" data-type="attachment" data-id="255" target="_blank" rel="noreferrer noopener">ar_steering_wheel.pdf</a></td>
+      <td colspan="2">Design files:<br><a href="assets/ar_steering_wheel.pdf" data-type="attachment" data-id="255" target="_blank" rel="noreferrer noopener">ar_steering_wheel.pdf</a></td>
     </tr>
     <tr>
       <td>Small traffic cones for marking the area of application</td>
@@ -118,11 +89,11 @@ The software for operating with the kit is organized [under Robotont account on 
 
 [Gamepad pairing instructions](docs/gamepad_pairing.md)
 
-Full documentation (including the bill of materials and the steps for assembly) of the 2nd generation Robotont is published in a research paper at HardwareX: [doi.org/10.1016/j.ohx.2023.e00436](doi.org/10.1016/j.ohx.2023.e00436)
+Full documentation (including the bill of materials and the steps for assembly) of the 2nd generation Robotont is published in a research paper at HardwareX: [doi.org/10.1016/j.ohx.2023.e00436](http://doi.org/10.1016/j.ohx.2023.e00436)
 
 ## Online learning content on Skills.move platform
 
-*Free registration on skillsmove.eu is required to access the following learning content.
+*Free registration on [skillsmove.eu](https://www.skillsmove.eu/) is required to access the following learning content.
 
 <details>
   <summary>[ENG] Robotont – An Open Source Mobile Robot For Education And Research</summary>
@@ -150,8 +121,38 @@ Full documentation (including the bill of materials and the steps for assembly) 
   * [Robotont – mobiler Open-Source-Roboter für Bildung und Forschung](https://www.skillsmove.eu/course/view.php?id=4261)
 </details>
 
-# PROJECT WEBSITE
 
-[OPEN-TeaLeaF WEBSITE](https://open-tealeaf.eu/)
+# PARTNERS
 
-The OPEN-TeaLeaF project has been co-funded by the European Union.
+## University of Tartu – leading partner
+
+<a href="https://www.ut.ee/en" target="_blank">
+  <img src="docs/ut_logo.png" alt="University of Tartu logo" height="100" />
+</a>
+
+UT includes four faculties. To support and develop the professional competence of its students and academic staff, the university has entered into bilateral co-operation agreements with 79 partner institutions in 31 countries.
+
+University of Tartu (UT) is Estonia’s leading centre of research and training. It preserves the culture of the Estonian people and spearheads the country’s reputation in research and provision of higher education. UT belongs to the top 1.2% of world’s best universities.
+
+As Estonia’s national university, UT stresses the importance of international co-operation and partnerships with reputable research universities all over the world. The robust research potential of the university is evidenced by the fact that the University of Tartu has been invited to join the Coimbra Group, a prestigious club of renowned research universities.
+
+UT includes four faculties. To support and develop the professional competence of its students and academic staff, the university has entered into bilateral co-operation agreements with 79 partner institutions in 31 countries.
+
+## OCG Austria Computer Society
+<a href="https://www.ocg.at/en" target="_blank">
+  <img src="docs/ocg_logo.jpg" alt="OCG logo" height="100" />
+</a>
+
+The Austrian Computer Society (OCG) is a non-profit association for the promotion of information technology with due regard to the interaction with people and society. The association acts as an interdisciplinary forum for the latest IT topics, it is an important and respected dialogue partner and has thematic leadership for socio-political IT topics.
+
+The OCG acts as a networking forum, it is a competent and reliable partner for event organisation and that way promotes the relationship between science and business. Moreover, it offers standardised, independent and high-quality IT education and training thus building an important bridge to the working world.
+
+## JOANNEUM RESEARCH
+
+<a href="https://www.joanneum.at/en" target="_blank">
+  <img src="docs/jr_logo.png" alt="JOANNEUM RESEARCH logo" height="100" />
+</a>
+
+JOANNEUM RESEARCH, headquartered in Graz, is a successful national and internationally active research institution owned by the Austrian federal states of Styria, Carinthia and Burgenland. Ideally embedded in the national and international innovation network, our researchers innovate in three high-level fields of expertise: “[Information and Production Technologies](https://www.joanneum.at/en/informations-und-produktionstechnologien)”, “[Human Technologies and Medicine](https://www.joanneum.at/en/humantechnologie-und-medizin)”, and “[Society and Sustainability](https://www.joanneum.at/en/gesellschaft-und-nachhaltigkeit)”. They use ideas, innovative power and considerable research experience to support companies both private and public not only with the development of technology, methods and products, but also with societal topics.
+
+
