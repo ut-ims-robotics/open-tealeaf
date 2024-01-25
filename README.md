@@ -21,7 +21,9 @@ The project is lead by University of Tartu (Estonia) and the partners are OCG Au
 
 ## University of Tartu – leading partner
 
-<img src="docs/ut_logo.png" alt="University of Tartu logo" height="100" />
+<a href="https://www.ut.ee/en" target="_blank">
+  <img src="docs/ut_logo.png" alt="University of Tartu logo" height="100" />
+</a>
 
 UT includes four faculties. To support and develop the professional competence of its students and academic staff, the university has entered into bilateral co-operation agreements with 79 partner institutions in 31 countries.
 
@@ -31,25 +33,22 @@ As Estonia’s national university, UT stresses the importance of international 
 
 UT includes four faculties. To support and develop the professional competence of its students and academic staff, the university has entered into bilateral co-operation agreements with 79 partner institutions in 31 countries.
 
-[UT WEBSITE](https://www.ut.ee/en)
-
 ## OCG Austria Computer Society
-
-<img src="docs/ocg_logo.jpg" alt="OCG logo" height="100" />
+<a href="https://www.ocg.at/en" target="_blank">
+  <img src="docs/ocg_logo.jpg" alt="OCG logo" height="100" />
+</a>
 
 The Austrian Computer Society (OCG) is a non-profit association for the promotion of information technology with due regard to the interaction with people and society. The association acts as an interdisciplinary forum for the latest IT topics, it is an important and respected dialogue partner and has thematic leadership for socio-political IT topics.
 
 The OCG acts as a networking forum, it is a competent and reliable partner for event organisation and that way promotes the relationship between science and business. Moreover, it offers standardised, independent and high-quality IT education and training thus building an important bridge to the working world.
 
-[OCG WEBSITE](https://www.ocg.at/en/austrian-computer-society)
-
 ## JOANNEUM RESEARCH
 
-<img src="docs/jr_logo.png" alt="JOANNEUM RESEARCH logo" height="100" />
+<a href="https://www.joanneum.at/en" target="_blank">
+  <img src="docs/jr_logo.png" alt="JOANNEUM RESEARCH logo" height="100" />
+</a>
 
 JOANNEUM RESEARCH, headquartered in Graz, is a successful national and internationally active research institution owned by the Austrian federal states of Styria, Carinthia and Burgenland. Ideally embedded in the national and international innovation network, our researchers innovate in three high-level fields of expertise: “[Information and Production Technologies](https://www.joanneum.at/en/informations-und-produktionstechnologien)”, “[Human Technologies and Medicine](https://www.joanneum.at/en/humantechnologie-und-medizin)”, and “[Society and Sustainability](https://www.joanneum.at/en/gesellschaft-und-nachhaltigkeit)”. They use ideas, innovative power and considerable research experience to support companies both private and public not only with the development of technology, methods and products, but also with societal topics.
-
-[JOANNEUM RESEARCH WEBSITE](https://www.joanneum.at/en)
 
 # PROJECT DOCUMENTATION
 
