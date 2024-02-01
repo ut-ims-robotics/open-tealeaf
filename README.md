@@ -1,17 +1,17 @@
 # OPEN-TeaLeaF
 ![Support logos](docs/support_logos.jpg)
 
-# ABOUT THE PROJECT
+# About the project
 
-The purpose of the “OPEN-TeaLeaF” project is to design portable and open teaching and learning kits (TeaLeaF kits). The kits make expensive equipment accessible to learners and promote hands-on learning experiences. By promoting time-sharing of robotic equipment, hundreds of pupils in Estonia and Austria can be engaged with a relatively conservative number of physical devices. “OPEN-TeaLeaF” conducts teacher workshops to ensure the didactic foundation empowers teachers to use the kits in their classes.
+The purpose of the “OPEN-TeaLeaF” is to design portable and open teaching and learning kits (TeaLeaF kits). The kits make expensive equipment accessible to learners and promote hands-on learning experiences. By promoting time-sharing of robotic equipment, hundreds of pupils can be engaged with a relatively conservative number of physical devices. “OPEN-TeaLeaF” offers teacher workshops to ensure the didactic foundation empowers teachers to use the kits in their classes.
 
 [OPEN-TeaLeaF WEBSITE](https://open-tealeaf.eu/)
 
 The OPEN-TeaLeaF activity is supported by EIT Manufacturing co-funded by the European Union.
 
-# PROJECT DOCUMENTATION
+# OPEN-TeaLeaF educational units
 
-## Learning kit contents
+## Hardware
 
 | <img src="docs/kit_et.jpg" alt="Estonian learning kit" height="300" /> | <img src="docs/kit_at.jpg" alt="Austrian learning kit" height="300" /> |
 |:---:|:---:|
@@ -28,8 +28,7 @@ The learning kit consists of the following components:
 - Markers for enabling vision-based perception
 - Small traffic cones for marking the area of application
 
-To ensure the scalability of OPEN-TeaLeaF kits, the components are either completely open-sourced (preferred) or low-cost off-the-shelf products with many functional alternatives.
-The specific brand or a model for component that is included in an OPEN-TeaLeaF kits is not necessarily strictly defined as long as the intended functionality is still maintained. For that reason, there are minor differences in the Bill of Materials for kits created in Austria (Type-AT) and Estonia (Type-EE). The table below provides an overview of the TeaLeaF kit final BoM and possible variations.
+To ensure the scalability of OPEN-TeaLeaF kits, the components are either completely open source (preferred) or low-cost off-the-shelf products with many functional alternatives. The specific brand or a model for component that is included in an OPEN-TeaLeaF kits is not necessarily strictly defined as long as the intended functionality is still maintained. For that reason, there are minor differences in the Bill of Materials for kits created in Austria (Type-AT) and Estonia (Type-EE). The table below provides an overview of the TeaLeaF kit final BoM and possible variations.
 
 <table>
   <thead>
@@ -89,9 +88,9 @@ The software for operating with the kit is organized [under Robotont account on 
 
 [Gamepad pairing instructions](docs/gamepad_pairing.md)
 
-Full documentation (including the bill of materials and the steps for assembly) of the 2nd generation Robotont is published in a research paper at HardwareX: [doi.org/10.1016/j.ohx.2023.e00436](http://doi.org/10.1016/j.ohx.2023.e00436)
+Full documentation (including the Bill of Materials and the Build Instructions) of the Robotont gen 2 is available in a research paper at HardwareX: [doi.org/10.1016/j.ohx.2023.e00436](http://doi.org/10.1016/j.ohx.2023.e00436)
 
-## Online learning content on Skills.move platform
+## Online learning content on Skills.move
 
 *Free registration on [skillsmove.eu](https://www.skillsmove.eu/) is required to access the following learning content.
 
@@ -122,9 +121,9 @@ Full documentation (including the bill of materials and the steps for assembly) 
 </details>
 
 
-# PARTNERS
+# Partners
 
-## University of Tartu – leading partner
+## University of Tartu
 
 <a href="https://www.ut.ee/en" target="_blank">
   <img src="docs/ut_logo.png" alt="University of Tartu logo" height="100" />
